@@ -58,7 +58,7 @@ This full-stack application is designed to provide a seamless user experience wi
 
 1. Clone the repository
     ```sh
-    https://github.com/faisalkhandev/Blogging-Backend-and-Frontend..git
+    https://github.com/rathichirag1512/Blog-Easy..git
     ```
 2. Navigate to the project directory
     ```sh
