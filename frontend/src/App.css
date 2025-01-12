@@ -1,0 +1,26 @@
+*{
+    background-color: black;
+    color: white;
+}
+
+input{
+    background-color: #010203;
+    color: white;
+    border: 1px solid white;
+    border-radius: 2px;
+    margin: 10px;
+    margin-left: 10px;
+    padding: 10px;
+}
+button{
+    padding: 10px;
+    background-color: #F4CE14;
+    color: black;
+    border-radius: '6px';
+}
+
+.postPage{
+    color: white;
+    font-size: 18px;
+    margin-left: 20px;
+}
